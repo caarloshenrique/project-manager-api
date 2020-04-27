@@ -7,7 +7,7 @@
 - [NodeJS LTS (ou superior)](https://nodejs.org/en/)
 - [PostgreSQL](https://www.postgresql.org/)
 
-### Uso :hammer_and_wrench:
+## Uso :hammer_and_wrench:
 
 ```
 $ git clone https://github.com/caarloshenrique/project-manager-api.git
