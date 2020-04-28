@@ -1,6 +1,6 @@
 # project-manager-api
 
-> :house_with_garden: Uma API para gerenciamento de projetos
+> :house_with_garden: Uma API para gerenciamento de projetos com Sequelize
 
 ## Requisitos :clipboard:
 
