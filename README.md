@@ -3,9 +3,9 @@
 > :house_with_garden: Uma API para gerenciamento de projetos com Sequelize
 
 
-## Tecnologias Usadas :rocket: 
+## Tecnologias utilizadas :rocket: 
 
-O projeto foi feito com as seguintes tecnologias:
+O projeto foi feito utilizando as seguintes tecnologias:
 
 - [NodeJS](https://nodejs.org/en/)
 - [ExpressJS](https://expressjs.com/pt-br/)
