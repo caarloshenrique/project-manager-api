@@ -3,7 +3,7 @@
 > :house_with_garden: Uma API para gerenciamento de projetos com Sequelize
 
 
-## Tecnologias utilizadas :rocket: 
+## :rocket: Tecnologias utilizadas
 
 O projeto foi feito utilizando as seguintes tecnologias:
 
@@ -13,12 +13,12 @@ O projeto foi feito utilizando as seguintes tecnologias:
 - [PostgreSQL](https://www.postgresql.org/)
 {...}
 
-## Requisitos :clipboard:
+## :clipboard: Requisitos
 
 - [NodeJS LTS (ou superior)](https://nodejs.org/en/)
 - [PostgreSQL](https://www.postgresql.org/)
 
-## Uso :hammer_and_wrench:
+## :hammer_and_wrench: Uso
 
 ```
 $ git clone https://github.com/caarloshenrique/project-manager-api.git
