@@ -13,7 +13,7 @@ O projeto foi feito utilizando as seguintes tecnologias:
 - [PostgreSQL](https://www.postgresql.org/)
 {...}
 
-## :clipboard: Requisitos
+## :clipboard: Pré-requisitos
 
 - [NodeJS LTS (ou superior)](https://nodejs.org/en/)
 - [PostgreSQL](https://www.postgresql.org/)
